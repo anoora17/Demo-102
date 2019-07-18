@@ -14,5 +14,11 @@
    https://docs.aws.amazon.com/cli/latest/userguide/cli-services-ec2-keypairs.html
 
   ```
+# s3 create
+* use aws cli
+```
+  aws s3 mb s3://demo-101
+```
+mhttps://docs.aws.amazon.com/cli/latest/userguide/cli-services-s3-commands.html
 # Demo-102
 AWS Lmabda and dyamodb
