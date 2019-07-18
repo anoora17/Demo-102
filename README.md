@@ -22,3 +22,7 @@
 mhttps://docs.aws.amazon.com/cli/latest/userguide/cli-services-s3-commands.html
 # Demo-102
 AWS Lmabda and dyamodb
+
+* Deploy cloudFormation templates
+
+Ref: Most of those script from LinuxAcademy and Pluralsight online learning websites
